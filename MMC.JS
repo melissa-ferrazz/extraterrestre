@@ -24,7 +24,7 @@ process.stdin.on("data", function (data){
             console.log("mdc: "+ mdc);
             process.exit()
         } else{
-            console.log("Digite o segundo numero")
+            console.log("Digite o segundo numero:")
         }
     }
 }) 
